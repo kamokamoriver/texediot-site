@@ -15,4 +15,4 @@ python3 -m http.server 8000   # 任意。http://localhost:8000/ で確認
 GitHub Pages で `main` ブランチのルートを配信します（Settings → Pages → Deploy from a branch → main / root）。
 公開 URL: https://kamokamoriver.github.io/texediot-site/
 
-インストーラーは現在準備中です。公開後は Releases に掲載する予定です。
+ベータ版インストーラーは [Releases](https://github.com/kamokamoriver/texediot-site/releases/tag/v0.1.0-beta.1) にあります。
